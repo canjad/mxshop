@@ -4,6 +4,7 @@ import (
 	"crypto/md5"
 	"crypto/sha512"
 	"encoding/hex"
+	"fmt"
 
 	"github.com/anaskhan96/go-password-encoder"
 	"io"
